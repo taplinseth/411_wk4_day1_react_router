@@ -38,3 +38,11 @@ ul {
 .car-paper {
   padding: 50px;
 }
+
+.vehicle-card {
+  margin-top: 50px;
+}
+
+#car-paper {
+  padding: 5%;
+}
